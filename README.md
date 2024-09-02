@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Stats
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nfrozi&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nfrozi&theme=default">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nfrozi&layout=compact&langs_count=8&theme=default">
